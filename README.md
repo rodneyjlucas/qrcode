@@ -25,7 +25,7 @@
 
 ### Links
 
-- Solution URL: (http://localhost:3000/index.html)
+- Solution URL: (https://frontend-mentor-qr-challenge-one.vercel.app/)
 - Live Site URL: (https://qrcode-532ram8dc-rodneys-projects-06f98900.vercel.app/index.html)
 
 ## My process
